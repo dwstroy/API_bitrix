@@ -1,18 +1,73 @@
-# Build and Release Folders
-bin-debug/
-bin-release/
-[Oo]bj/
-[Bb]in/
+# Compiled jource #
+###################
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
 
-# Other files and folders
-.settings/
+# Packagea #
+############
+*.7z
+*.dng
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
 
-# Executables
-*.swf
-*.air
-*.ipa
-*.apk
+# Logs and datebases #
+######################
+*.log
+*.sql
+*.sqlite
 
-# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
-# should NOT be excluded as they contain compiler settings and other important
-# information for Eclipse / Flash Builder.
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotling-V100
+.Trashes
+
+# Gpeg #
+########
+*.jpg
+*.png
+*.gif
+*.psd
+*.svg
+
+
+# PhpShtorm #
+#############
+.idea
+.idea/
+
+# GIT #
+#############
+.gitignore
+/*.gitignore 
+
+# bitrix # 
+#############
+/bitrix/backup 
+/bitrix/cache 
+/bitrix/crontab 
+/bitrix/managed_cache 
+/bitrix/managed_flags 
+/bitrix/modules/*.log 
+/bitrix/php_interface/crontab 
+/bitrix/php_interface/dbconn.php 
+/bitrix/stack_cache 
+/logs 
+/upload 
+/.htaccess 
+/urlrewrite.php 
+/*.log 
+/*.sql 
+/*.txt 
+/*.xml 
+/*.dt

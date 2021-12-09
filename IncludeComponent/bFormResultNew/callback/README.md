@@ -19,6 +19,9 @@
 
 ![alt text](https://raw.githubusercontent.com/dwstroy/API_bitrix/main/IncludeComponent/bFormResultNew/callback/_img/04.jpeg)
 
+
+![alt text](https://raw.githubusercontent.com/dwstroy/API_bitrix/main/IncludeComponent/bFormResultNew/callback/_img/forma.jpeg)
+
 ## 2. Вёрстка саомой формы
 
 Описание ``CSS`` стилей

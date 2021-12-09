@@ -35,7 +35,7 @@
 # Gpeg #
 ########
 *.jpg
-#*.jpeg
+*.jpeg
 *.png
 *.gif
 *.psd

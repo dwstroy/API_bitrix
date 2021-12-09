@@ -45,12 +45,11 @@
 # PhpShtorm #
 #############
 .idea
-.idea/
+.idea/*
 
 # GIT #
 #############
-.gitignore
-/*.gitignore 
+*.gitignore
 
 # bitrix # 
 #############
@@ -65,10 +64,24 @@
 /bitrix/stack_cache 
 /logs 
 /upload 
+/vendor/
+/vendor_js/
+/node_modules/
+/bin/
+/bower_components/
+/1c_manual/
 /.htaccess 
 /urlrewrite.php 
+yandex_*.html
+google*.html
+sitemap*.xml
+composer.phar
+restore.php
 /*.log 
 /*.sql 
 /*.txt 
 /*.xml 
 /*.dt
+*.swp
+*.swo
+*.DS_Store

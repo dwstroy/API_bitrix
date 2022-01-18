@@ -34,12 +34,12 @@
 
 # Gpeg #
 ########
-*.jpg
+#*.jpg
 *.jpeg
-*.png
-*.gif
-*.psd
-*.svg
+#*.png
+#*.gif
+#*.psd
+#*.svg
 
 
 # PhpShtorm #
